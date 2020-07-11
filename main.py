@@ -50,7 +50,7 @@ def run(message, musicPath):
         processTextDisplay.terminate()
 
 
-message = "Happy Birthday,\n Sandesh Dai!"
+message = "Happy Birthday,\n John Doe!"
 musicPath = "audio/Fur-Elise-10-Second.m4a"
 
 run(message,musicPath)
