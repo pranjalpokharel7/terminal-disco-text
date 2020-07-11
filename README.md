@@ -22,7 +22,7 @@ Rapidly color-changing text effect in terminal (plus audio) using python
  
 # Notes:
 
-  1) Major Bug: KeyBoard Interrupt does not stop the audio from playing, although the text effect is interrupted. 
+  1) Major Bug: KeyBoard Interrupt (Ctrl+C) does not stop the audio from playing, although the text effect is interrupted. 
                 Will fix this in the next update in which probably a different audio library/module will be preferred.
   
   2) The process will stop when the audio will stop (hence only a 10-second audio is used). Since keyboard interrupt
