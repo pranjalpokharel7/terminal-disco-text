@@ -1,7 +1,7 @@
 # Terminal-Disco-Text
 Rapidly color-changing text effect in terminal (plus audio) using python
 
-# External Libraries/Modules (required):
+# External Libraries/Modules (requires pip):
 
 1) art (https://pypi.org/project/art/) - For ASCII-Art of Message
    Installation Command (Linux): 
@@ -30,3 +30,5 @@ Rapidly color-changing text effect in terminal (plus audio) using python
      and know a way around this, please leave a comment)
      
   3) Will only work on Linux-based distros for now.
+
+  4) Please add \n (newline escape character) where necessary to prevent jumbling of texts (for custom messages). 
