@@ -5,19 +5,22 @@ Rapidly color-changing text effect in terminal (plus audio) using python
 
 1) art (https://pypi.org/project/art/) - For ASCII-Art of Message
    Installation Command (Linux): 
-      > pip install art
+      > **pip install art**
 
 2) playsound (https://pypi.org/project/playsound/) - For Audio
    Installation Command (Linux):
-      > pip install playsound
+      > **pip install playsound**
       
 ## Run Command:
 
   Make script executable by using the command : 
-  > chmod +x main.py
+  > **chmod +x main.py**
 
   Execute using :
-  > ./main.py
+  > **./main.py**
+  
+  Note: If python3 is not installed in /usr/bin/python3 by default, run using the command:
+  > **python3 main.py**
  
 ## For Custom Message:
 
@@ -36,3 +39,7 @@ Rapidly color-changing text effect in terminal (plus audio) using python
   3) Will only work on Linux-based distros for now.
 
   4) Please add \n (newline escape character) where necessary to prevent jumbling of texts (for custom messages). 
+ 
+ ## Thanks:
+ 
+ * To @UdeshyaDhungana for suggesting changes in the executable.
