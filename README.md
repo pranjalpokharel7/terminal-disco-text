@@ -1,26 +1,30 @@
 # Terminal-Disco-Text
 Rapidly color-changing text effect in terminal (plus audio) using python
 
-# External Libraries/Modules (requires pip):
+## External Libraries/Modules (requires pip):
 
 1) art (https://pypi.org/project/art/) - For ASCII-Art of Message
    Installation Command (Linux): 
-      pip install art
+      > pip install art
 
 2) playsound (https://pypi.org/project/playsound/) - For Audio
    Installation Command (Linux):
-      pip install playsound
+      > pip install playsound
       
-# Run Command:
+## Run Command:
 
-  python3 main.py
+  1) Make script executable by using the command : 
+  > chmod +x main.py
+
+  2) Execute using :
+  > ./main.py
  
-# For Custom Message:
+## For Custom Message:
 
   Change the value of string message in main.py
   message = "Hello, World!"
  
-# Notes:
+## Notes:
 
   1) Major Bug: KeyBoard Interrupt (Ctrl+C) does not stop the audio from playing, although the text effect is interrupted. 
                 Will fix this in the next update in which probably a different audio library/module will be preferred.
