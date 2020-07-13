@@ -3,11 +3,13 @@ Rapidly color-changing text effect in terminal (plus audio) using python
 
 ## External Libraries/Modules (requires pip):
 
-1) art (https://pypi.org/project/art/) - For ASCII-Art of Message
+1) **Art** (https://pypi.org/project/art/) - For ASCII-Art of Message\
+\
    Installation Command (Linux): 
       > **pip install art**
 
-2) playsound (https://pypi.org/project/playsound/) - For Audio
+2) **Playsound** (https://pypi.org/project/playsound/) - For Audio\
+\
    Installation Command (Linux):
       > **pip install playsound**
       
