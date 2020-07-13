@@ -13,10 +13,10 @@ Rapidly color-changing text effect in terminal (plus audio) using python
       
 ## Run Command:
 
-  1) Make script executable by using the command : 
+  Make script executable by using the command : 
   > chmod +x main.py
 
-  2) Execute using :
+  Execute using :
   > ./main.py
  
 ## For Custom Message:
