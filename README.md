@@ -1,5 +1,5 @@
 # Terminal-Disco-Text
-Rapidly color-changing text effect in terminal (plus audio) using python
+Rapidly color-changing text effect in terminal (plus audio), using python
 
 ## External Libraries/Modules (requires pip):
 
